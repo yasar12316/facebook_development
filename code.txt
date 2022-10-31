@@ -6,5 +6,6 @@
    4  like and commend code
    5 show friends post or scroll down code
    6 show seen when the mobile data is on
+   7 testing the whole programme code
 
 
