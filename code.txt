@@ -1,9 +1,10 @@
-1 THIS IS FACEBOOK CODE
-2  Author: Yasar arafath
-3   1 profile page code 
-4   2 chat screen code 
-5   3 friends and suggestion code
-6   4  like and commend code
-7   5 show friends post or scroll down code
-8
-9
+ THIS IS FACEBOOK CODE
+  Author: Yasar arafath
+   1 profile page code 
+   2 chat screen code 
+   3 friends and suggestion code
+   4  like and commend code
+   5 show friends post or scroll down code
+   6 show seen when the mobile data is on
+
+
